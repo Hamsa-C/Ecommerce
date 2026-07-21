@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "name": "hamsa",
+      "email": "hamsachandrashekar0512@gmail.com",
+      "mobile": "9393002",
+      "password": "123",
+      "id": "7I1q0xIHb70"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "product_name": "Samsung F23",
+      "product_price": 20000,
+      "product_category": "Electronics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0XoptwYkyF03wUasmIJJBJ99uDZhWzjkIzozy31Fcr4gESfbsNgxDrx&s=10",
+      "product_description": "This phone features a 16.25 (6.4) Full HD+ Infinity-U Display and a fast refresh rate of up to 120 Hz so that you can enjoy a seamless browsing and stunning visual experience.",
+      "product_ratings": 4
+    },
+    {
+      "id": "2",
+      "product_name": "Oppo K13 Turbo",
+      "product_price": 40000,
+      "product_category": "Electronics",
+      "product_image": "https://m.media-amazon.com/images/I/41Uc0VP3KxL._AC_UF1000,1000_QL80_.jpg",
+      "product_description": "The OPPO K13 Turbo (often associated with K-series queries) features a MediaTek Dimensity 8450 processor, a massive 7000 mAh battery, and an active cooling fan",
+      "product_ratings": 4.5
+    },
+    {
+      "id": "3",
+      "product_name": "Asus Vivobook",
+      "product_price": 76000,
+      "product_category": "Electronics",
+      "product_image": "https://laptopmedia.com/wp-content/uploads/2024/01/1-7-e1678204902490.jpg",
+      "product_description": "The ASUS Vivobook series offers a versatile lineup of thin, lightweight, and stylish laptops tailored for students, professionals, and daily multimedia",
+      "product_ratings": 4.9
+    },
+    {
+      "id": "4",
+      "product_name": "Hatsun Curd",
+      "product_price": 30,
+      "product_category": "Dairy",
+      "product_image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
+      "product_description": "Hatsun Curd is a thick, creamy, and preservative-free dairy product made from pasteurized toned milk. It is widely used for everyday meals, raitas, and lassis.",
+      "product_ratings": 4.5
+    },
+    {
+      "id": "5",
+      "product_name": "Ipad",
+      "product_price": 55000,
+      "product_category": "Electronics",
+      "product_image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-10th-gen-storage-select-202212-blue-wifi?wid=5120&hei=2880&fmt=webp&qlt=90&.v=K0VQT3FFaHFhTWU0ME1DRnlHMFM3bEIvTXY5NjBUQVhVcnFORUt4SFI2QnduTWswWFJ6S0ZIaG1mazU1N0Q2TDBoUVhuTWlrY2hIK090ZGZZbk9HeEJWb1BiTjRORlc1Y1lKU3JWempySklUYXZlbmNKcnhmMmlWcnRaSm1takRmbW94YnYxc1YvNXZ4emJGL0IxNFp3&traceId=1",
+      "product_description": "The Apple iPad lineup spans from budget-friendly everyday devices to elite, high-performance professional workstations. The main options include the entry-level iPad, the mid-range iPad Air, and the top-tier iPad Pro.",
+      "product_ratings": 4.5
+    },
+    {
+      "id": "6",
+      "product_name": " Dood peda",
+      "product_price": 200,
+      "product_category": "Dairy",
+      "product_image": "https://5.imimg.com/data5/SELLER/Default/2025/8/540474678/SA/HJ/TP/231264240/nandini-milk-peda.jpg",
+      "product_description": "Nandini Doodh Peda (Milk Peda) is a popular traditional Indian sweet manufactured by the Karnataka Milk Federation (KMF). Crafted primarily from pure cow's milk solids (khoya) and sugar, it is highly celebrated across South India for its rich, velvety, and melt-in-the-mouth creamy texture.",
+      "product_ratings": 4
+    },
+    {
+      "id": "7",
+      "product_name": "Moisturizer",
+      "product_price": 350,
+      "product_category": "Cosmetics",
+      "product_image": "https://m.media-amazon.com/images/I/31F1Hd8wwwL._SY300_SX300_QL70_FMwebp_.jpg",
+      "product_description": "The Bare Minimum Daily Moisturizer Pure hydration. Zero clutter.",
+      "product_ratings": 4.5
+    },
+    {
+      "id": "8",
+      "product_name": "Pink guava icecream",
+      "product_price": 40,
+      "product_category": "Dairy",
+      "product_image": "https://www.bbassets.com/media/uploads/p/xl/40326567_1-nandini-pink-guava-ice-cream.jpg",
+      "product_description": "Pink Guava Ice Cream is a refreshing, tropical frozen treat made primarily from the pulp of sweet pink guavas. ",
+      "product_ratings": 5
+    },
+    {
+      "id": "9",
+      "product_name": "Lakme lipstick",
+      "product_price":500,
+      "product_category": "Cosmetics",
+      "product_image": "https://images-static.nykaa.com/media/catalog/product/d/b/db453c4LAKME00000013_M.jpg?tr=w-344,h-344,cm-pad_resize",
+      "product_description": "Lakme's is a highly popular shade available across their top liquid lipstick ranges. It is primarily a beautiful peach-toned brown nude that is specifically designed to complement Indian skin tones for effortless, everyday wear.",
+      "product_ratings": 4.7
+    },
+    {
+      "id": "10",
+      "product_name": "Lakme eyeliner",
+      "product_price":100 ,
+      "product_category": "Cosmetics",
+      "product_image": "https://www.lakmesalon.in/cdn/shop/files/black1.jpg?v=1742203979",
+      "product_description": "The most popular Lakmé eyeliners include the budget-friendly Lakmé Insta Eye Liner for daily wear and the long-lasting Lakmé 9 to 5 Eyeconic Liquid Eyeliner for precise, smudge-proof lines",
+      "product_ratings": 4.3
+    },
+    {
+      "id": "11",
+      "product_name": "Jacket",
+      "product_price": 1500,
+      "product_category": "Fashion",
+      "product_image": "https://contents.mediadecathlon.com/p2687616/580497e3b6682088c5e606f527592199/p2687616.jpg",
+      "product_description": "Versatile layers perfect for effortless daily street style or light weather protection.",
+      "product_ratings": 4.2
+    },
+    {
+      "id": "12",
+      "product_name": "Wide leg jeans",
+      "product_price":1000,
+      "product_category": "Fashion",
+      "product_image": "https://sassafras.in/cdn/shop/files/SFJEAN0592-1_fbd456eb-0dfb-400c-abb2-07e09c80679c_700x.jpg?v=1757493219",
+      "product_description": "A modern, relaxed look with a spacious cut from the thigh down for ultimate comfort and contemporary style.",
+      "product_ratings": 4.5
+    },
+    {
+      "id": "13",
+      "product_name": "Formal Shirt",
+      "product_price":500 ,
+      "product_category": "Fashion",
+      "product_image": "https://rukminim2.flixcart.com/image/1366/1366/xif0q/shirt/e/l/r/m-women-formal-shirts-aadicare-original-imahmzmzsbbdr5zx.jpeg?q=90",
+      "product_description": "These pieces feature clean lines, traditional spread collars, and breathable cotton fabrics designed to stay crisp and comfortable all day long.",
+      "product_ratings": 4.8
+    },
+    {
+      "id": "14",
+      "product_name": "Milk",
+      "product_price":30,
+      "product_category": "Dairy",
+      "product_image": "https://manmul.coop/wp-content/uploads/2022/02/shubham_1.jpg",
+      "product_description": "Nandini Milk is the flagship dairy brand of the Karnataka Cooperative Milk Producers' Federation Limited (KMF), making it a staple household name across South India. Processed locally with rigorous quality checks, it stands as the second-largest milk cooperative in India.",
+      "product_ratings": 4.3
+    },
+    {
+      "id": "15",
+      "product_name": "lakme sunscreen",
+      "product_price":1000 ,
+      "product_category": "Cosmetics",
+      "product_image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/w9RyfDeA1-949601_1.jpg",
+      "product_description": "Lakmé offers a popular range of budget-friendly sunscreens designed specifically to handle hot and humid weather conditions without leaving a heavy or chalky residue",
+      "product_ratings": 4.3
+    }
+    
+  ],
+  "orders": [
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hamsa",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "9393002",
+      "customer_addres": "channapatna",
+      "product_id": "1",
+      "product_name": "Samsung F23",
+      "product_quantity": 1,
+      "total": 20000,
+      "order_date": "20/7/2026",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0XoptwYkyF03wUasmIJJBJ99uDZhWzjkIzozy31Fcr4gESfbsNgxDrx&s=10",
+      "id": "F4JDXIVKTDg"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hams",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "9393002968",
+      "customer_addres": "rmg",
+      "product_id": "3",
+      "product_name": "Asus Vivobook",
+      "product_quantity": 1,
+      "total": 76000,
+      "order_date": "20/7/2026",
+      "product_img": "https://laptopmedia.com/wp-content/uploads/2024/01/1-7-e1678204902490.jpg",
+      "id": "wDsing98RLU"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "guddu",
+      "customer_email": "ha@gmail.com",
+      "customer_phone": "92080202",
+      "customer_addres": "rmg",
+      "product_id": "4",
+      "product_name": "Hatsun Curd",
+      "product_quantity": 1,
+      "total": 30,
+      "order_date": "20/7/2026",
+      "product_img": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
+      "id": "SbKKkDv3CvQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
