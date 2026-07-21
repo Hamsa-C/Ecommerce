@@ -83,7 +83,6 @@ color: white;
   padding: 10px;
   border-radius: 10px;
 }
-/* --- Filter & Search Bar Styling --- */
 .filter-container {
   display: flex;
   justify-content: center;
@@ -108,7 +107,6 @@ color: white;
   border-color: rgb(8, 147, 239);
 }
 
-/* Button style adjustment for product card */
 .view-btn {
   background-color: rgb(8, 147, 239);
   border: none;
