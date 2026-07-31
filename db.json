@@ -84,7 +84,7 @@
     {
       "id": "9",
       "product_name": "Lakme lipstick",
-      "product_price":500,
+      "product_price": 500,
       "product_category": "Cosmetics",
       "product_image": "https://images-static.nykaa.com/media/catalog/product/d/b/db453c4LAKME00000013_M.jpg?tr=w-344,h-344,cm-pad_resize",
       "product_description": "Lakme's is a highly popular shade available across their top liquid lipstick ranges. It is primarily a beautiful peach-toned brown nude that is specifically designed to complement Indian skin tones for effortless, everyday wear.",
@@ -93,7 +93,7 @@
     {
       "id": "10",
       "product_name": "Lakme eyeliner",
-      "product_price":100 ,
+      "product_price": 100,
       "product_category": "Cosmetics",
       "product_image": "https://www.lakmesalon.in/cdn/shop/files/black1.jpg?v=1742203979",
       "product_description": "The most popular Lakmé eyeliners include the budget-friendly Lakmé Insta Eye Liner for daily wear and the long-lasting Lakmé 9 to 5 Eyeconic Liquid Eyeliner for precise, smudge-proof lines",
@@ -111,7 +111,7 @@
     {
       "id": "12",
       "product_name": "Wide leg jeans",
-      "product_price":1000,
+      "product_price": 1000,
       "product_category": "Fashion",
       "product_image": "https://sassafras.in/cdn/shop/files/SFJEAN0592-1_fbd456eb-0dfb-400c-abb2-07e09c80679c_700x.jpg?v=1757493219",
       "product_description": "A modern, relaxed look with a spacious cut from the thigh down for ultimate comfort and contemporary style.",
@@ -120,7 +120,7 @@
     {
       "id": "13",
       "product_name": "Formal Shirt",
-      "product_price":500 ,
+      "product_price": 500,
       "product_category": "Fashion",
       "product_image": "https://rukminim2.flixcart.com/image/1366/1366/xif0q/shirt/e/l/r/m-women-formal-shirts-aadicare-original-imahmzmzsbbdr5zx.jpeg?q=90",
       "product_description": "These pieces feature clean lines, traditional spread collars, and breathable cotton fabrics designed to stay crisp and comfortable all day long.",
@@ -129,7 +129,7 @@
     {
       "id": "14",
       "product_name": "Milk",
-      "product_price":30,
+      "product_price": 30,
       "product_category": "Dairy",
       "product_image": "https://manmul.coop/wp-content/uploads/2022/02/shubham_1.jpg",
       "product_description": "Nandini Milk is the flagship dairy brand of the Karnataka Cooperative Milk Producers' Federation Limited (KMF), making it a staple household name across South India. Processed locally with rigorous quality checks, it stands as the second-largest milk cooperative in India.",
@@ -138,13 +138,94 @@
     {
       "id": "15",
       "product_name": "lakme sunscreen",
-      "product_price":1000 ,
+      "product_price": 1000,
       "product_category": "Cosmetics",
       "product_image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/w9RyfDeA1-949601_1.jpg",
       "product_description": "Lakmé offers a popular range of budget-friendly sunscreens designed specifically to handle hot and humid weather conditions without leaving a heavy or chalky residue",
       "product_ratings": 4.3
+    } ,{
+      "id": "16",
+      "product_name": "Nail polish",
+      "product_price": 100,
+      "product_category": "Cosmetics",
+      "product_image": "https://verymiss.in/cdn/shop/files/VERYM00000101_1.jpg?v=1696397666",
+      "product_description": "A vibrant and long-lasting nail polish that provides a salon-quality finish at an affordable price.",
+      "product_ratings": 4
+    },{
+      "id": "17",
+      "product_name": "Lip liner",
+      "product_price": 150,
+      "product_category": "cosmetics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlvbcB4N66ogxj3zQnSS_TWgxHlFq6jtqBCcWjZl5wt-ODRhjQqjOCAxwoRA1gQlzB9kQzquVBPm75q4HX4y99_apd6l9AerA9Dkmp1BropITlQvwtpYHWy45a6AaYlap4cHKvfA&usqp=CAc",
+      "product_description": "A long-lasting lip liner that defines and shapes lips while preventing feathering and smudging of lipstick.",
+      "product_ratings": 3
+    },{
+      "id": "18",
+      "product_name": "Paneer",
+      "product_price": 200,
+      "product_category": "Dairy",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIIkLc-8PKvPUt_j8UmH9biroWJDv4fAyYQNn9nf4CA&s=10",
+      "product_description": "Fresh and delicious paneer, perfect for making traditional Indian dishes.",
+      "product_ratings": 5
+    },{
+      "id": "",
+      "product_name": "Butter",
+      "product_price": 250,
+      "product_category": "Dairy",
+      "product_image": "https://www.bbassets.com/media/uploads/p/l/242668_4-nandini-cooking-butter-unsalted.jpg",
+      "product_description": "Premium quality butter, perfect for cooking and baking.",
+      "product_ratings": 4.5
+    },{
+      "id": "20",
+      "product_name": "Kurtha set",
+      "product_price": 1000,
+      "product_category": "Fashion",
+      "product_image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfd9Y2fjpaEdqJsUAtptL7JcefmAJ6jlXw7CNb1BOPlpke3R4guP8hoKWzjGp1k24x7oEjbIzam2DdSEvVmM8XJi641kRJA",
+      "product_description": "A comfortable and stylish kurtha set perfect for everyday wear.",
+      "product_ratings": 4.5
+    },{
+      "id": "21",
+      "product_name": "Formal shirt",
+      "product_price": 500,
+      "product_category": "Fashion",
+      "product_image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR568BkHlT8zy_TIXrWYX97OJj1hVNeQFaSxnYvbrVG3VwrKH01m20ow9lLdDiCemR6GzTq3HnmFEzTRkXasF3R75AeSZV3ug7v-RiFdcXZWw-Q5p7IUxu0",
+      "product_description": "A classic formal shirt perfect for professional settings.",
+      "product_ratings": 4.3
+    },{
+      "id": "22",
+      "product_name": "Speaker",
+      "product_price": 5000,
+      "product_category": "Electronics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaFV4MakV6tGbDw-hsKfYZZycmjGM4oVPdM9mZI65WEH14BVsFgbOUt_LKbS0DtAgcCYQ_K_wjN1PkqKNNgXuRRgO-x70BX2bTf1LQ92RfUcdKS-4OMneRdo4",
+      "product_description": "A high-quality speaker for immersive audio experiences.",
+      "product_ratings": 4.9
+    },{
+      "id": "23",
+      "product_name": "Earbuds",
+      "product_price": 2000,
+      "product_category": "Electronics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTETkeGM6PvFOvh4Bw9GK11Pc_ZC-1DL7x1iz0OR-jrxFTOf_bvTpXpNBuq-FFuBFwsQgERj2SJK0oeih3Mac-e_dFm6krSAA",
+      "product_description": "Wireless earbuds for crystal-clear audio quality.",
+      "product_ratings": 4.5
+    },{
+      "id": "24",
+      "product_name": "Wireless charger",
+      "product_price": 1000,
+      "product_category": "Electronics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMyUH2lsOonh8yTnJa_HzMqufkkdVas-iy5ovamii-q1_InLMTGDLsZT5MidtwdlsNfBMqnNppjkoXFyw2H7F9iFB_yKgd_A",
+      "product_description": "A convenient wireless charger for your devices.",
+      "product_ratings": 4
+    },
+    {
+      "id": "25",
+      "product_name": "Mysore pak",
+      "product_price": 150,
+      "product_category": "Dairy",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEItFnmKMG0kPTNdBUMf_LkS7NH-jj1tPd4kq07dQRw&s=10",
+      "product_description": "A delicious and nutritious Mysore pak, perfect for a quick snack.",
+      "product_ratings": 4
     }
-    
+
   ],
   "orders": [
     {
@@ -188,6 +269,118 @@
       "order_date": "20/7/2026",
       "product_img": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
       "id": "SbKKkDv3CvQ"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hamsa",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "4",
+      "product_name": "Hatsun Curd",
+      "product_quantity": 1,
+      "total": 30,
+      "order_date": "26/7/2026",
+      "product_img": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
+      "id": "6p5YIlV_-X8"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hamsa",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "2",
+      "product_name": "Oppo K13 Turbo",
+      "product_quantity": 1,
+      "total": 40000,
+      "order_date": "26/7/2026",
+      "product_img": "https://m.media-amazon.com/images/I/41Uc0VP3KxL._AC_UF1000,1000_QL80_.jpg",
+      "id": "3uzN7R225KU"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hamsa",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "1",
+      "product_name": "Samsung F23",
+      "product_quantity": 1,
+      "total": 20000,
+      "order_date": "26/7/2026",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0XoptwYkyF03wUasmIJJBJ99uDZhWzjkIzozy31Fcr4gESfbsNgxDrx&s=10",
+      "id": "DItL1VC7sTU"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "ha",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "10",
+      "product_name": "Lakme eyeliner",
+      "product_quantity": 1,
+      "total": 100,
+      "order_date": "26/7/2026",
+      "product_img": "https://www.lakmesalon.in/cdn/shop/files/black1.jpg?v=1742203979",
+      "id": "nZMd3ru70Zc"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "ha",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "3",
+      "product_name": "Asus Vivobook",
+      "product_quantity": 1,
+      "total": 76000,
+      "order_date": "26/7/2026",
+      "product_img": "https://laptopmedia.com/wp-content/uploads/2024/01/1-7-e1678204902490.jpg",
+      "id": "XgWoC1aIrFw"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "h",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "1",
+      "product_name": "Samsung F23",
+      "product_quantity": 1,
+      "total": 20000,
+      "order_date": "31/7/2026",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkW0XoptwYkyF03wUasmIJJBJ99uDZhWzjkIzozy31Fcr4gESfbsNgxDrx&s=10",
+      "id": "DmbnEjOEHB4"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "hams",
+      "customer_email": "hamsachandrashekar0512@gmail.com",
+      "customer_phone": "09538876777",
+      "customer_addres": "rampura",
+      "product_id": "6",
+      "product_name": " Dood peda",
+      "product_quantity": 1,
+      "total": 200,
+      "order_date": "31/7/2026",
+      "product_img": "https://5.imimg.com/data5/SELLER/Default/2025/8/540474678/SA/HJ/TP/231264240/nandini-milk-peda.jpg",
+      "id": "pIvkFdT28gU"
+    },
+    {
+      "customer_id": "7I1q0xIHb70",
+      "customer_name": "guddu",
+      "customer_email": "hemanth@gmail.com",
+      "customer_phone": "06363610472",
+      "customer_addres": "channapatna",
+      "product_id": "11",
+      "product_name": "Jacket",
+      "product_quantity": 1,
+      "total": 1500,
+      "order_date": "31/7/2026",
+      "product_img": "https://contents.mediadecathlon.com/p2687616/580497e3b6682088c5e606f527592199/p2687616.jpg",
+      "id": "k9_83oEf_WA"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

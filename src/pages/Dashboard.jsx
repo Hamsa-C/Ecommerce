@@ -26,12 +26,12 @@ const Dashboard = () => {
   const matchesCategory=
   selectedCategory==='all'||item.product_category?.toLowerCase()===selectedCategory.toLowerCase();
 
-  return matchesSearch && matchesCategory
+  return matchesSearch && matchesCategory;
   })
   return (
    <>
     <Navbar/>
-    <center><h1>Welcome, {username}</h1></center>
+    <center><h1>Welcome  {username}</h1></center>
     <div className='filter-container'>
       <input
       type='text'
@@ -55,7 +55,7 @@ const Dashboard = () => {
     <div className="product-container">
       {filterProducts.map((x)=>{
       return(
-        <div className='product-container'>
+        <div key={x.id} className='product'>
         <img src={x.product_image} height={"200px"} width={"200px"} alt={x.product_name} />
         <h3>{x.product_name}</h3>
         <button className='view-btn' onClick={()=>{handleProduct(x.id)}}>View</button>

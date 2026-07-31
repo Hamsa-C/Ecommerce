@@ -1,3 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial, sans-serif;
+}
+.container{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:relative;
+
+    background:
+        linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+        url("https://t3.ftcdn.net/jpg/12/18/39/96/360_F_1218399642_i043CCylG6xIXVbVeypnkVbcGiGpW6BO.jpg");
+      
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
 *{
   padding: 0;margin: 0;
 }
@@ -19,7 +39,31 @@ border-radius: 10px;
 cursor: pointer;
 }
 
-.signup-form,.login-form{
+.signup-form{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+        linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+        url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+  
+}
+.login-form{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+        linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+        url("https://wallpapercave.com/wp/wp7553348.jpg");
+ 
+}
+#login-link,#signup-link{
+  color: white;
+  font-weight: bold;
+}
+.login-form{
   height: 100vh;
   display: flex;
   align-items: center;
@@ -28,7 +72,7 @@ cursor: pointer;
 }
 .signup-form h2, .login-form h2{
   text-align: center;
-  color: rgb(8, 147, 239);
+  color: rgb(199, 206, 211);
   margin: 15px;
 }
 .signup-form form, .login-form form{
@@ -56,7 +100,7 @@ align-items: center;
 justify-content: space-between;
 height: 75px;
 width: 100%;
-background-color: rgb(8, 147, 239);
+background-color: rgb(34, 104, 154);
 color: white;
   }
   .right{
@@ -65,12 +109,18 @@ color: white;
     justify-content: space-evenly;
     width: 30%;
   }
+  .logo{
+    height: 80px;
+    width:90px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+  }
 .product-container{
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  gap: 50px;
+  gap: 40px;
   margin-top: 50px;
 }
 .product{
@@ -78,9 +128,10 @@ color: white;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 30px;
-  box-shadow: 0 0 4px black;
+  gap: 20px;
+  box-shadow: 0 4px 12px black;
   padding: 10px;
+  
   border-radius: 10px;
 }
 .filter-container {
@@ -120,4 +171,40 @@ color: white;
 
 .view-btn:hover {
   background-color: rgb(5, 115, 190);
+}
+.orders-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.orders-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.no-orders {
+  font-size: 16px;
+  color: #666;
+}
+
+.order-card {
+  border: 1px solid #e0e0e0;
+  padding: 16px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.order-card h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.order-card p {
+  margin: 6px 0;
+  color: #444;
 }

@@ -50,7 +50,7 @@ const Login = () => {
           /> <br />
 
           <button id='login'>Login</button>
-          <p style={{textAlign:"center"}}>New User? <Link to={"/signup"}>Signup</Link></p>
+          <p style={{textAlign:"center"}}>New User? <Link id="signup-link" to={"/signup"}>Signup</Link></p>
         </form>
       </div>
     </>

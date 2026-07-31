@@ -6,6 +6,7 @@ import Login from './pages/Login'
 import Dashboard from './pages/Dashboard'
 import ProductDetail from './pages/ProductDetail'
 import Success from './pages/Success'
+import Orders from './pages/Orders'
 const App = () => {
   return (
     <>
@@ -16,6 +17,7 @@ const App = () => {
         <Route path='/dashboard' element={<Dashboard/>}/>
         <Route path='/productdetail/:id/' element={<ProductDetail/>}/>
         <Route path='/success' element={<Success/>}/>
+        <Route path='/orders' element={<Orders/>}/>
       </Routes>
     </>
   )

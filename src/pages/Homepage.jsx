@@ -6,7 +6,6 @@ const Homepage = () => {
     <>
       <div className="container">
         <button id='signup-btn' onClick={()=>{navigate("/signup")}}>Signup</button>
-        
         <button id='login-btn' onClick={()=>{navigate("/login")}}>Login</button>
       </div>
     </>
